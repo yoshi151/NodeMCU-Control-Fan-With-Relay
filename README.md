@@ -22,4 +22,10 @@ step 5: open it(.zip file) you will find two folder call librarys and tools .the
 step 6: open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library 
 and in contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more
 
-step 7: plug nodemcu to your computer. then go to Tools > port and change to port of nodemcu.now upload the code to nodemcu by press the arrow button and wait for it to finish.
+step 7: download Blynk on your phone then sign up. create new proect and name it .now you will get a token from your gmail. click on the screen. the widget box will pop out so you can add button controllers.when button is in your project.click on it again. it will go to button setting.rename it whatever you like.in output change the pin to GP16 and set mode to switch.
+
+step 8: now you have to change the code. change char auth[] = "your Blynk token" 
+                                                char ssid[] = "your wifi name" 
+                                                char pass[] = "your wifi password" 
+                                                
+step 9: plug nodemcu to your computer. then go to Tools > port and change to port of nodemcu.now upload the code to nodemcu by press the arrow button and wait for it to finish.
