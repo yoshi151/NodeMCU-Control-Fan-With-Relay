@@ -19,5 +19,7 @@ and then click on the button DOWNLOAD BLYNK LIBRARY. now download Blynk_Release_
 step 5: open it(.zip file) you will find two folder call librarys and tools .then open a new folder. go to your Arduino folder mine is in /Home .now when you open it.you will find a folder call Library.then move the Blynks library(both of them)to the Arduino folder.
 //now you finish the installation
 
-step 6:open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library 
+step 6: open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library 
 and in contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more
+
+step 7: plug nodemcu to your computer. then go to Tools > port and change to port of nodemcu.now upload the code to nodemcu by press the arrow button and wait for it to finish.
