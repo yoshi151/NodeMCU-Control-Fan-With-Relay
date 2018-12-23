@@ -1,5 +1,5 @@
 
-YOU NEED: NODEMCU * 1 RELAY * 1 
+YOU NEED: <br>NODEMCU * 1 <br>RELAY * 1 <br>
 
 FOR CODE:   
 
@@ -24,8 +24,10 @@ and in contributed library you will found library call Blynk, BlynkEsp8266_Lib, 
 
 step 7: download Blynk on your phone then sign up. create new proect and name it .now you will get a token from your gmail. click on the screen. the widget box will pop out so you can add button controllers.when button is in your project.click on it again. it will go to button setting.rename it whatever you like.in output change the pin to GP16 and set mode to switch.
 
-step 8: now you have to change the code. change char auth[] = "your Blynk token" 
-                                                char ssid[] = "your wifi name" 
-                                                char pass[] = "your wifi password" 
+step 8: now you have to change the code. 
+change <br>
+char auth[] = "your Blynk token" <br>
+char ssid[] = "your wifi name" <br>
+char pass[] = "your wifi password" <br>
                                                 
 step 9: plug nodemcu to your computer. then go to Tools > port and change to port of nodemcu.now upload the code to nodemcu by press the arrow button and wait for it to finish.
