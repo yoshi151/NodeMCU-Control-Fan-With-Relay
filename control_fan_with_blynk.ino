@@ -4,9 +4,9 @@
  #include <ESP8266WiFi.h>
  #include <BlynkSimpleEsp8266.h>
 
- char auth[] = "5fb37755cfce483c9e17e3afd2073cd8";
- char ssid[] = "yoshi51";
- char pass[] = "pannawish";
+ char auth[] = "your Blynk token";
+ char ssid[] = "your wifi name";
+ char pass[] = "your wifi password";
 void setup() {
   // put your setup code here, to run once:
 
