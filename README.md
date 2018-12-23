@@ -1,7 +1,8 @@
 
 YOU NEED: NODEMCU * 1 RELAY * 1 
 
-FOR CODE:
+FOR CODE:   
+
 step 1: download Arduino IDE from https://www.arduino.cc/en/main/software.
 
 step 2: open Arduino IDE click File > Preferences then copy this link.
