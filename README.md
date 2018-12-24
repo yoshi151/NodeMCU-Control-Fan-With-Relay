@@ -25,7 +25,7 @@ CHANGE THE CODE/DOWNLOAD BLYNK TO YOUR PHONE<br>
 step 6: Open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library 
 . In contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more.
 
-step 7: Download Blynk on your phone then sign up. Create new proect and name it .Now you will get a token from your gmail. Click on the screen. The widget box will pop out so you can add button controllers.When button is in your project.Click on it again. It will go to button setting.Rename it whatever you like.In output change the pin to GP16 and set mode to switch.
+step 7: Download Blynk on your phone then sign up. Create new project and name it .Now you will get a token from your gmail. Click on the screen. The widget box will pop out so you can add button controllers.When button is in your project.Click on it again. It will go to button setting.Rename it whatever you like.In output change the pin to GP16 and set mode to switch.
 
 step 8: Now you have to change the code. 
 change <br>
