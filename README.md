@@ -12,7 +12,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json and paste it on 
 
 step 3: Click on Tools > Board:"Arduino/Genuion Uno" > Boards Manager...
 then type nodemcu on the empty block. Select the frist one (esp8266 by ESP8266 Community) and click install.
-When you finish change the board to NodeMCU 0.9 or 0.10 then close it.
+When you finish change the board to NodeMCU 0.9 or 0.10 then close Arduino IDE.
 //Now you can code on nodemcu board.
 
 step 4: Now you need to dowload BLYNK library. All you need to do is go to https://www.blynk.cc/getting-started/ 
