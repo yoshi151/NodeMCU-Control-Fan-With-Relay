@@ -30,6 +30,6 @@ char auth[] = "your Blynk token" <br>
 char ssid[] = "your wifi name" <br>
 char pass[] = "your wifi password" <br>
 
-step 9: Connect nodemcu to relay as shown in Picture 1. And connect relay as shown in Picture 2.
+step 9: Connect nodemcu to relay as shown in Picture 1.<br> And connect relay to fan as shown in Picture 2. //This step is very dangerous.<br>You can connect relay to led as shown in Picture 3. It will be safer.
 
 step 10: Plug nodemcu to your computer. Then go to Tools > port and change to port of nodemcu.Now upload the code to nodemcu by press the arrow button and wait for it to finish.
