@@ -14,7 +14,7 @@ When you finish change the board to NodeMCU 0.9 or 0.10 then close it.
 //Now you can code on nodemcu board.
 
 step 4: Now you need to dowload BLYNK library. All you need to do is go to https://www.blynk.cc/getting-started/ 
-and then click on the button DOWNLOAD BLYNK LIBRARY. Now download Blynk_Release_v0.5.4.zip(other version is fine).
+and then click on the button DOWNLOAD BLYNK LIBRARY. And download Blynk_Release_v0.5.4.zip(other version is fine).
 
 step 5: Open it(.zip file) you will find two folder call librarys and tools .Then open a new folder. Go to your Arduino folder mine is in /Home .Now when you open it.You will find a folder call Library.Then move the Blynks library(both of them)to the Arduino folder.
 //Now you finish the installation
