@@ -1,7 +1,9 @@
 
-YOU NEED: <br>NODEMCU * 1 <br>RELAY * 1 <br>
+YOU NEED:
+    
+<br>NODEMCU * 1 <br>RELAY * 1 <br>
 
-FOR CODE:   
+SETUP AND INSTALLATION<br>
 
 step 1: Download Arduino IDE from https://www.arduino.cc/en/main/software.
 
@@ -17,8 +19,9 @@ step 4: Now you need to dowload BLYNK library. All you need to do is go to https
 and then click on the button DOWNLOAD BLYNK LIBRARY. And download Blynk_Release_v0.5.4.zip(other version is fine).
 
 step 5: Open it(.zip file) you will find two folder call librarys and tools .Then open a new folder. Go to your Arduino folder mine is in /Home .Now when you open it.You will find a folder call Librarys.Then move the Blynks library(both of them)to the Arduino folder.
-//Now you finish the installation
 
+CHANGE THE CODE/DOWNLOAD BLYNK TO YOUR PHONE<br>
+    
 step 6: Open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library 
 . In contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more.
 
@@ -29,7 +32,9 @@ change <br>
 char auth[] = "your Blynk token" <br>
 char ssid[] = "your wifi name" <br>
 char pass[] = "your wifi password" <br>
-
+     
+CONNECTION<br>
 step 9: Connect nodemcu to relay as shown in Picture 1.<br> And connect relay to fan as shown in Picture 2. //This step is very dangerous.<br>You can connect relay to led as shown in Picture 3. It will be safer.
 
+RUN THE CODE<br>
 step 10: Plug nodemcu to your computer. Then go to Tools > port and change to port of nodemcu.Now upload the code to nodemcu by press the arrow button and wait for it to finish.
