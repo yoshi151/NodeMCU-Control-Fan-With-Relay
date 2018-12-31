@@ -38,7 +38,7 @@ Blynk_Release_v0.5.4.zip(เวอร์ชั่น อะไรก็ได้
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step7.png"><br>
 
 ขั้นตอนที่8 ดาวโหลดแอป BLYNK ลงในมือถือ sign up สร้าง project ใหม่ และตั้งชื่อให้เรียบร้อย ตอนนี้ BLYNK จะส่ง token ไปที่ gmail ของคุณจากนั้นให้คุณกดที่หน้าจอจะมี widget box เด้งออกมา กดไปที่ปุ่มที่ชื่ิอว่า Button เมื่อมีปุ่มอยู่ที่ project คุณ ให้กดที่ปุ่มเพื่อที่จะตั้งค่ามัน ตั้งชื่อให้มัน ใน output เปลี่ยน pin ให้เป็น GP16 และเปลี่ยน mode เป็น switch<br>
-<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.png"><br>
+<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.png">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.1.png"><br>
 
 ขั้นตอนที่9 เปลี่ยนโค้ดตรง<br>
