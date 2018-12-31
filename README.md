@@ -34,7 +34,7 @@ step 7: Open Arduino IDE and copy the code from above and paste it on Arduino ID
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step7.png"><br>
 
 step 8: Download Blynk on your phone then sign up. Create new project and name it .Now you will get a token from your gmail. Click on the screen. The widget box will pop out so you can add button controllers.When button is in your project.Click on it again. It will go to button setting.Rename it whatever you like.In output change the pin to GP16 and set mode to switch.<br>
-<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.png"><br>
+<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.png">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.1.png"><br>
 
 step 9: Now you have to change the code. 
