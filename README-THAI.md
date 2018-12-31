@@ -41,12 +41,12 @@ Blynk_Release_v0.5.4.zip(เวอร์ชั่น อะไรก็ได้
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.png"><br>
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.1.png"><br>
 
-ขั้นตอนที่9 เปรียนโค้ดตรง<br>
+ขั้นตอนที่9 เปลี่ยนโค้ดตรง<br>
 char auth[] = "Blynk token" <br>
 char ssid[] = "ชื่อ wifi" <br>
 char pass[] = "password ของ wifi" <br>
 
 โหลดโปรแกรม<br>
 
-ขั้นตอนที่สุดทาย(10)เสียบ nodemc กับ คอม แล้วไปที่ Tools > port เปลี่ยน port เป็น port ที่คุณเสียบ nodemcu เข้าไป เมื่อเสร็จกดที่รูปลูกศร(มุมบนซ้าย)
+ขั้นตอนสุดท้าย(10)เสียบ nodemc กับ คอม แล้วไปที่ Tools > port เปลี่ยน port เป็น port ที่คุณเสียบ nodemcu เข้าไป เมื่อเสร็จกดที่รูปลูกศร(มุมบนซ้าย)
 เพื่อโหลดโปรแกรมเข้า nodemcu และรอจนกว่ามันจะเสร็จ
