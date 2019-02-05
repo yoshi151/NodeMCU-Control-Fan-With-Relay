@@ -4,7 +4,7 @@ YOU NEED:
 <br>NODEMCU * 1 <br>RELAY * 1 <br>
      
 CONNECTION<br>
-step 1: Connect nodemcu to relay as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">Picture 1</a>.<br> And connect relay to fan as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_2.png">Picture 2</a>. //This step is very dangerous.You can connect relay to led as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_3.png">Picture 3</a>. It will be safer.
+step 1: Connect nodemcu to relay as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">Picture 1</a>.And connect relay to fan as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_2.png">Picture 2</a>. //This step is very dangerous.You can connect relay to led as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_3.png">Picture 3</a>. It will be safer.<br>
 SETUP AND INSTALLATION<br>
 
 step 2: Download Arduino IDE from https://www.arduino.cc/en/main/software.<br>
