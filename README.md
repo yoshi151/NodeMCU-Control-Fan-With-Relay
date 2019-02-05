@@ -45,3 +45,8 @@ char pass[] = "your wifi password" <br>
 
 RUN THE CODE<br>
 step 10: Plug nodemcu to your computer. Then go to Tools > port and change to port of nodemcu.Now upload the code to nodemcu by press the arrow button and wait for it to finish.
+
+
+<a href="https://www.w3schools.com">
+<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step8.1.png"><br>
+</a>
