@@ -6,7 +6,7 @@ Relay 1 อัน<br>
 การเชื่อมต่อ<br>
 
 ขั้นตอนที่1 เชื่อม nodemcu กับ relay ดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 1</a><br>
-เชื่อม relay กับ พัดลมดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 2</a>//ขั้นตอนนี้อันตรายมาก คุณสามารถเชื่อมต่อ relay กับ led แทน ดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 3</a> เพื่อความปลอดภัย<br>
+เชื่อม relay กับ พัดลมดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 2</a> //ขั้นตอนนี้อันตรายมาก คุณสามารถเชื่อมต่อ relay กับ led แทน ดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 3</a> เพื่อความปลอดภัย<br>
    
 การตั้งค่าและดาวน์โหลด <br>
    
