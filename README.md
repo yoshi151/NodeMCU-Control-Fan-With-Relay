@@ -4,14 +4,14 @@ YOU NEED:
 <br>NODEMCU * 1 <br>RELAY * 1 <br>
      
 CONNECTION<br>
-step 1: Connect nodemcu to relay as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">Picture 1</a>.And connect relay to fan as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_2.png">Picture 2</a>. //This step is very dangerous.You can connect relay to led as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_3.png">Picture 3</a>. It will be safer.<br>
+step 1: Connect nodemcu to relay as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">Picture 1</a><br>.And connect relay to fan as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_2.png">Picture 2</a>. //This step is very dangerous.You can connect relay to led as shown in <a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_3.png">Picture 3</a>. It will be safer.<br>
 
 SETUP AND INSTALLATION<br>
 
 step 2: Download Arduino IDE from https://www.arduino.cc/en/main/software.<br>
 <a href="https://www.arduino.cc/en/main/software">
-<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step2.png">
-</a><br>
+<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step2.png"><br>
+</a>
 
 step 3: Open Arduino IDE click File > Preferences then copy this link.
 http://arduino.esp8266.com/stable/package_esp8266com_index.json and paste it on the Additional Boards Manager URLs and click ok.<br>
@@ -29,8 +29,8 @@ step 5: Now you need to dowload BLYNK library. All you need to do is go to https
 and then click on the button DOWNLOAD BLYNK LIBRARY. And download Blynk_Release_v0.5.4.zip(other version is fine).<br>
 <a href="https://www.blynk.cc/getting-started/">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step5.png"><br>
-<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step5.1.png">
-</a><br>
+<img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step5.1.png"><br>
+</a>
 
 step 6: Open it(.zip file) you will find two folder call librarys and tools .Then open a new folder. Go to your Arduino folder mine is in /Home .Now when you open it.You will find a folder call Librarys.Then move the Blynks library(both of them)to the Arduino folder.<br>
 
