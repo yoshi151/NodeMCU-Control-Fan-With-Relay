@@ -8,7 +8,9 @@ step 1: Connect nodemcu to relay as shown in Picture 1.<br> And connect relay to
 SETUP AND INSTALLATION<br>
 
 step 2: Download Arduino IDE from https://www.arduino.cc/en/main/software.<br>
+<a href="https://www.arduino.cc/en/main/software">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step2.png"><br>
+</a>
 step 3: Open Arduino IDE click File > Preferences then copy this link.
 http://arduino.esp8266.com/stable/package_esp8266com_index.json and paste it on the Additional Boards Manager URLs and click ok.<br>
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step3.png"><br>
