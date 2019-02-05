@@ -5,13 +5,15 @@ Relay 1 อัน<br>
 
 การเชื่อมต่อ<br>
 
-ขั้นตอนที่1 เชื่อม nodemcu กับ relay ดังรูปภาพที่ 1<br>
-เชื่อม relay กับ พัดลมดังรูปภาพที่ 2//ขั้นตอนนี้อันตรายมาก คุณสามารถเชื่อมต่อ relay กับ led แทน ดังรูปที่ 3 เพื่อความปลอดภัย<br>
+ขั้นตอนที่1 เชื่อม nodemcu กับ relay ดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 1</a><br>
+เชื่อม relay กับ พัดลมดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 2</a>//ขั้นตอนนี้อันตรายมาก คุณสามารถเชื่อมต่อ relay กับ led แทน ดัง<a href="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture_1.png">รูปที่ 3</a> เพื่อความปลอดภัย<br>
    
 การตั้งค่าและดาวน์โหลด <br>
    
 ขั้นตอนที่2 ดาวน์โหลด Arduino IDE จาก https://www.arduino.cc/en/main/software.<br>
+<a href="https://www.arduino.cc/en/main/software">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step2.png"><br>
+</a>
 
 ขั้นตอนที่3 เปิด Arduino IDE กดไปที่ File > Preferences จากนั้น ก๊อปปี้ ลิ้งนี้ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 แล้ววางในช่อง Additional Boards Manager URLs เมื่อเสร็จกด ok<br>
@@ -24,8 +26,10 @@ Relay 1 อัน<br>
 
 ขั้นตอนที่5 ดาวโหลด BLYNK library จาก https://www.blynk.cc/getting-started/ เมื่อเข้าไปแล้วให้กดปุ่ม DOWNLOAD BLYNK LIBRARY และดาวโหลด
 Blynk_Release_v0.5.4.zip(เวอร์ชั่น อะไรก็ได้)<br>
+<a href="https://www.blynk.cc/getting-started/">
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step5.png"><br>
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step5.1.png"><br>
+</a>
 
 ขั้นตอนที่6 เมื่อดาวโหลดเสร็จให้เปิด(เป็นไฟล์Zipก็ได้)จะเจอโฟลเดอร์สองอันคือ librarys กับ tools จากนั้นให้เปิดโฟลเดอร์ Arduino(ปกติจะอยู่ที่โฟลเดอร์ Home)
 ถ้าเจอโฟลเดอร์ librarys ให้นำ Blynks libraryทั้งสองอัน(librarys กับ tools)ไปที่โฟลเดอร์ Arduino แล้วเดี๋ยว LIBRARY ของ BLYNK จะเข้าไปในโฟลเดอร์ LIBRARY ของ Arduino ส่วน tools จะอยู่ในโฟลเดอร์ Arduino<br>
