@@ -38,7 +38,7 @@ and then click on the button DOWNLOAD BLYNK LIBRARY. And download Blynk_Release_
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step6.1.png"><br>
 <h2>CHANGE THE CODE/DOWNLOAD BLYNK TO YOUR PHONE</h2><br>
     
-<h3>step 7:</h3> Open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library.In contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more.<br>
+<h3>step 7:</h3> <a href = "https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/control_fan_with_blynk.ino">https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/control_fan_with_blynk.ino </a> <br> Open Arduino IDE and copy the code from above and paste it on Arduino IDE make sure that your board is NodeMCU 0.9 or 0.10 ,the upload speed is 115200(in Tools) and there a Blynk library in your Arduino library by open Sketch > include library.In contributed library you will found library call Blynk, BlynkEsp8266_Lib, ESP8266wifi, ESP8266... and many more.<br>
 
 <img src="https://github.com/yoshi151/NodeMCU-Control-Fan-With-Relay/blob/master/picture/step7.png"><br>
 
